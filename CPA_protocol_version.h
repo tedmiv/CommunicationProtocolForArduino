@@ -1,0 +1,6 @@
+#ifndef CPA_PROTOCOL_VERSION_H
+#define CPA_PROTOCOL_VERSION_H
+
+#define CPA_PROTOCOL_VERSION 1
+
+#endif

@@ -1,6 +1,9 @@
 #ifndef CPA_MSG_HEARTBEAT_H
 #define CPA_MSG_HEARTBEAT_H
 
+#define CPA_MSG_ID_HEARTBEAT 0
+#define CPA_MSG_HEARTBEAT_LEN 6
+
 struct _cpa_heartbeat {
     uint8_t component_type;
     uint8_t component_id;
